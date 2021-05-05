@@ -2,7 +2,7 @@
 
 ![LOGO](https://github.com/saikrishnadas/SuperChat/blob/main/logo.png)
 
-https://superchat-8c104.web.app/
+Visit URL to check it out 🌟👉 https://superchat-8c104.web.app/👈🌟 
 
 
 SUPERCHAT⚡ is a secure public open chatting webapp which is created using react.
