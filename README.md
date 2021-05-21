@@ -1,4 +1,4 @@
-#SUPERCHAT⚡
+# SUPERCHAT⚡
 
 ![LOGO](https://github.com/saikrishnadas/SuperChat/blob/main/logo.png)
 
@@ -13,7 +13,7 @@ SUPERCHAT⚡ is a secure public open chatting webapp which is created using reac
 
 
 
-Screenshots:
+## Screenshots: 📸
 ![website screenshot](https://github.com/saikrishnadas/SuperChat/blob/main/Screenshotlogin.png)
 
 
